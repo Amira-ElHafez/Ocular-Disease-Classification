@@ -1,6 +1,7 @@
 # Ophthalmology Disease Classification Pipeline
 
-## Project Overview
+## Project Overview 
+
 This project is an end-to-end, memory-efficient Machine Learning pipeline designed to classify ophthalmology diseases from medical images. Instead of using heavy deep learning models, this pipeline focuses on **robust, illumination-invariant handcrafted feature engineering** combined with a **Soft-Voting Classifier Ensemble**. 
 
 The code automatically handles dataset downloading, class discovery, and smart image sizing, making it highly adaptable to different medical image datasets.
